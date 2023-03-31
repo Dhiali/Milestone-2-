@@ -1,0 +1,422 @@
+
+
+.logo{
+    float: left;
+    color: white;
+    padding-top: 20px;
+    
+}
+
+.row{
+    float: left;
+    color: #2b2b2b;
+    
+}
+
+.nav-con{
+    width: 520px;
+    height: 60px;
+    float: center;
+}
+
+nav ul{
+    list-style: none;
+    float:right;
+    
+    
+    
+}
+nav li{
+   float: right;
+   padding-left: 20px;
+   padding-right: 20px;
+   height: 35px;
+   background-color:lightgrey;
+   margin-left: 5px;
+   margin-right: 5px;
+   padding-top: 5px;
+}
+
+nav li:hover{
+    background-color:black;
+    color: White;
+ }
+
+header{
+    width: 100%;
+    height: 600px;
+    background-color: lightgray;
+    padding-left: 10%;
+    padding-top: 150px;
+    padding-right: 10%;
+    
+    background-size: cover;
+background-position: center;
+    background-image: url("../assets/logic-soundset.jpg");
+}
+
+header h1{
+    font-size: 45px;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+}
+
+.intro{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    text-align: center;
+    padding-top: 25px;
+    color: white;
+}
+
+.image-block{
+    width: 80%;
+    height: 400px;
+    background-color: lightgray;
+    margin-top: 50px;
+    
+}
+
+.image-block{
+    width: 100%;
+    height: 400px;
+    background-color: lightgray;
+    margin-top : 50px;
+    margin-bottom: 20px;
+}
+
+
+
+.half{
+    padding-top: 100px;
+    padding-right: 10%;
+}
+
+.thumbnail{
+    text-align: center;
+    padding-top: 25px;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.image{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: lightgrey;
+    margin-bottom: 10px;
+}
+
+.small-btn{
+    width: 150px;
+    height: 35px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding-top: 5px;
+}
+
+.small-btn:hover{
+   background-color: white;
+   color: black;
+   cursor: pointer;
+   padding-top: 3px;
+}
+
+.section-head{
+    text-align: center;
+    margin-top: 80px;
+}
+
+footer{
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    color: White;
+    text-align: center;
+    padding-top: 30px;
+    margin-top: 100px !important;
+}
+ ul a{
+    color:black
+ }
+
+ .active{
+    background-color: darkgrey;
+    color: white;
+ }
+
+ .title-block{
+    width:100%;
+    height: 250px;
+    background-color: lightgray;
+    margin-top: 20px;
+ }
+
+ .title{
+    padding-left: 5%;
+    padding-right: 5%;
+ }
+
+ 
+ .title h4{
+   margin-top: 20px;
+ }
+
+ .title-btn{
+    width: 120px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    padding-top: 5px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.title-btn:hover{
+   background-color: white;
+   color: black;
+   cursor: pointer;
+   padding-top: 3px;
+}
+
+.button-one{
+    width: 200px;
+    background-color:#2b2b2b;
+    border-radius:5px;
+    text-align:center;
+    padding-bottom:15px;
+    color:white;
+    margin-bottom:20px;
+    font-weight:bold;
+    float: right;
+    text-align: center;
+    float: right;
+   padding-left: 20px;
+   padding-right: 20px;
+   height: 35px;
+   margin-left: 5px;
+   margin-right: 5px;
+   padding-top: 5px;
+}
+
+
+
+
+
+
+.button-one:hover{
+    cursor: pointer;
+    border: 2px solid #2b2b2b;
+    background-color:white;
+    color: #2b2b2b;
+    width: 196px;
+    height: 31px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+
+}
+
+
+
+.image-block{
+    width:100%;
+    height: 200px;
+    background-color: lightgray;
+margin-top: 25px;
+border-radius: 5px;
+margin-top: 50px;
+margin-bottom: 20px;
+
+}
+.image{
+    width:100%;
+    height: 200px;
+
+margin-top: 25px;
+border-radius: 5px;
+margin-top: 50px;
+margin-bottom: 20px;
+background-size: cover;
+background-position: center;
+    background-image: url("../assets/album\ 1.jpg");
+     
+    
+}
+.image2{
+    width:100%;
+        height: 200px;
+    
+    margin-top: 25px;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    background-size: cover;
+    background-position: center; 
+    background-image: url("../assets/album\ 2.jpg");
+    
+    
+}
+.image3{
+    width:100%;
+        height: 200px;
+    
+    margin-top: 25px;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    background-size: cover;
+    background-position: center;
+    background-image: url("../assets/album\ 3.jpg");
+    
+}
+.image4{
+    width:100%;
+        height: 200px;
+    
+    margin-top: 25px;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    background-size: cover;
+    background-position: center;
+    background-image: url("../assets/album\ 4.jpg");
+   
+    
+}
+
+body{
+    color: black;
+
+}
+
+.cta{
+    width:500px;
+    height: 35px;
+    margin-top:20px;
+
+
+}
+
+.btn-1{
+    width: 40px;
+    height: 28px;
+    float: right;
+    border: 2px solid blue;
+    margin: 5px;
+    text-align: center;
+    padding-top: 12px;
+    color: black;
+    border-radius: 50%;
+    padding-bottom:15px;
+    margin-bottom:20px;
+    font-weight:bold;
+   padding-left: 20px;
+   padding-right: 20px;
+   margin-left: 5px;
+   margin-right: 5px;
+   background-size: cover;
+    background-position: center;
+    background-image: url("../assets/greater.png");
+}
+
+.btn-2{
+    width: 40px;
+    height: 28px;
+    float: right;
+    border: 2px solid blue;
+    margin: 5px;
+    text-align: center;
+    padding-top: 12px;
+    color:white;
+    border-radius: 50%;
+    padding-bottom:15px;
+    margin-bottom:20px;
+    font-weight:bold;
+   padding-left: 20px;
+   padding-right: 20px;
+   margin-left: 5px;
+   margin-right: 5px;
+   background-size: cover;
+    background-position: center;
+    background-image: url("../assets/less.jpg");
+}
+
+.btn{
+    width: 40px;
+    height: 28px;
+    float: right;
+    border: 2px solid green;
+    margin: 5px;
+    text-align: center;
+    padding-top: 12px;
+    color:white;
+    border-radius: 50%;
+    padding-bottom:15px;
+    margin-bottom:20px;
+    font-weight:bold;
+   padding-left: 20px;
+   padding-right: 20px;
+   margin-left: 5px;
+   margin-right: 5px;
+   background-size: cover;
+    background-position: center;
+    background-image: url("../assets/5365673f66386551fa6df965535bcfa1.jpg");
+}
+
+
+
+
+
+.btn-1:hover{
+    cursor: pointer;
+    border: 2px solid #2b2b2b;
+    background-color:white;
+    color: #2b2b2b;
+    width: 40px;
+    height: 28px;
+    padding-top: 12px;
+    padding-bottom: 20px;
+
+
+}
+
+.btn-2:hover{
+    cursor: pointer;
+    border: 2px solid #2b2b2b;
+    background-color:white;
+    color: #2b2b2b;
+    width: 40px;
+    height: 28px;
+    padding-top: 12px;
+    padding-bottom: 20px;
+
+
+}
+
+.col-6{
+    float:right;
+}
+
+.btn-5{
+    width:150px;
+    height:53px;
+    border:2px solid white;
+    padding-top: 5px;
+    padding-left: 5px;
+    border-radius: 53px;
+    padding-bottom: 1px;
+    
+    text-align:center;
+    color: #2b2b2b;
+
+    padding-top: 12px;
+
+
+}
+
+.btn-4:hover{
+    cursor: pointer;
+}
